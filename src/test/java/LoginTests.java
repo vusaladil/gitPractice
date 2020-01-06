@@ -6,5 +6,4 @@ public class LoginTests {
         System.out.println("Line 1");
         System.out.println("Line 1");
     }
-    }
 }
